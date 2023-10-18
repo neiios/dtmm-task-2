@@ -11,6 +11,7 @@ dist/
 eggs/
 *.egg-info/
 *.egg
+.venv
 
 .idea/
 
