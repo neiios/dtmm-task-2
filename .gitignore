@@ -14,8 +14,6 @@ eggs/
 
 .idea/
 
-.vscode/
-
 .ipynb_checkpoints/
 
 *.tex
