@@ -18,3 +18,4 @@ eggs/
 .ipynb_checkpoints/
 
 *.tex
+*.png
