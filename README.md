@@ -15,3 +15,7 @@ after that run this command inside the git repo
 ```bash
 git config filter.strip-notebook-output.clean 'jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to=notebook --stdin --stdout --log-level=ERROR'
 ```
+
+## conclusions
+
+never ever ever use jupyter notebooks for anything. never.
